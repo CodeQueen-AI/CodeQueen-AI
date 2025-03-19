@@ -64,11 +64,5 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=codequeen-ai&icon=6&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
 
 
