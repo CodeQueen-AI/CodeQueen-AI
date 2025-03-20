@@ -48,8 +48,11 @@
 
 
 
-# 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&bg_color=0d0d1b&border_color=ffffff&title_color=ff007f&text_color=00e6e6&icon_color=ffcc00)
+# 📊 My GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&theme=dark&bg_color=0d0d1f&title_color=ff0099&text_color=00e6e6&icon_color=ffcc00&border_color=ffffff" alt="codequeen-ai GitHub Stats" />
+</p>
 
 
 
@@ -58,14 +61,11 @@
 
 
 
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codequeen-ai&background=0d0d1b&border=ffffff&stroke=ffffff&ring=ff007f&fire=ff007f&currStreakLabel=ffd700&currStreakNum=ffcc00&sideNums=ff007f&sideLabels=ff007f&dates=00e6e6" alt="GitHub Streak Stats" />
-
-
-### Contact WIth Me
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=codequeen-ai&theme=dark&background=0C0C15&ring=FF0080&fire=FF0080&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FF0080&sideLabels=FF0080&dates=00E5FF" 
+       alt="codequeen-ai" />
+</p>
 
 
 
