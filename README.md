@@ -49,10 +49,10 @@
 
 
 # 📊 My GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&theme=dark&bg_color=0d0d1f&title_color=ff0099&text_color=00e6e6&icon_color=ffcc00&border_color=ffffff" alt="codequeen-ai GitHub Stats" />
-</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&locale=en&theme=dark&bg_color=0d0d1f&title_color=ff0099&text_color=00e6e6&icon_color=ffcc00&border_color=ffffff" alt="codequeen-ai" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codequeen-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -67,6 +67,7 @@
 
 
 ###Connect with me
+
 
 
 
