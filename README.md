@@ -2,9 +2,7 @@
   <h1>👋 Hello! I'm <i>Sumbal Naz</i></h1>
 </div>
 
-#🚀Creative Coder | Problem Solver | AI Visionary
-
-## 🚀Creative Coder | Problem Solver | AI Visionary
+# 🚀Creative Coder | Problem Solver | AI Visionary
 *I love crafting innovative, responsive and dynamic web solutions using HTML, CSS, JavaScript, TypeScript, and Next.js ⚡ Currently exploring the power of Python 🐍 to expand my skills in web development and beyond!*
 
 **💡 Building, learning, and evolving—one line of code at a time! ✨**
