@@ -37,7 +37,10 @@
   </a>
 </p>
 
-
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=codequeen-ai&theme=dark&background=0C0C15&ring=FF0080&fire=FF0080&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FF0080&sideLabels=FF0080&dates=00E5FF" 
+       alt="codequeen-ai" />
 
 # 🔥 GitHub Achievements
 <p align="left"> 
