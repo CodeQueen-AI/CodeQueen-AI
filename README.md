@@ -65,4 +65,11 @@
 
 
 ### Connect with me
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codequeen-ai&show_icons=true&locale=en&layout=compact" alt="codequeen-ai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&locale=en" alt="codequeen-ai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codequeen-ai&" alt="codequeen-ai" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codequeen-ai&" alt="codequeen-ai" /></p>
