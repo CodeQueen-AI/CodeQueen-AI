@@ -2,10 +2,11 @@
   <h1>👋 Hello! I'm <i>Sumbal Naz</i></h1>
 </div>
 
-# 🚀Creative Coder | Problem Solver | AI Visionary
-*I love crafting innovative, responsive and dynamic web solutions using HTML, CSS, JavaScript, TypeScript, and Next.js ⚡ Currently exploring the power of Python 🐍 to expand my skills in web development and beyond!*
+# 🚀Turning Ideas into Code | ✨Creative Mind | Future AI Engineer
+*I love blending creativity with code — building responsive web experiences with Next.js & TypeScript ⚡ Expanding my journey into Python 🐍 and the world of AI.*
 
-**💡 Building, learning, and evolving—one line of code at a time! ✨**
+
+**💡 Growing with every line of code, dreaming big with AI ✨**
 
 # 💻 Tech Stack
 
@@ -17,12 +18,19 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agent%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+
 </p>
 
 # Socials🌐
@@ -30,11 +38,14 @@
   <a href="https://x.com/CodeQueen23?s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sumbal-naz-712464347/
-" target="_blank">
+  <a href="https://www.linkedin.com/in/sumbal-naz-712464347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.tiktok.com/@codequeen23" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
+
 
 
 # 🔥 GitHub Achievements
