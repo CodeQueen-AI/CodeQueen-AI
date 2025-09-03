@@ -2,7 +2,7 @@
   <h1>👋 Hello! I'm <i>Sumbal Naz</i></h1>
 </div>
 
-# 🚀💻 Building Smarter We | ✨Creative Mind | Future AI Engineer
+# Building Smarter Web | ✨Creative Mind | Future AI Engineer
 *I love blending creativity with code — building responsive web experiences with Next.js & TypeScript ⚡ Expanding my journey into Python 🐍 and the world of AI.*
 
 
