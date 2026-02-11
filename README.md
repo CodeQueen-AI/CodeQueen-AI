@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>👋 Hello! I'm <i>Sumbal Naz</i></h1>
 </div>
 
@@ -71,4 +71,4 @@
        alt="codequeen-ai" />
 </p>
 
-
+ -->
