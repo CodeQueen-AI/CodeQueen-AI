@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <h1>👋 Hello! I'm <i>Sumbal Naz</i></h1>
 </div>
 
@@ -8,9 +8,7 @@
 
 **💡 Growing with every line of code, dreaming big with AI ✨**
 
-
-
-<!-- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,7 +28,7 @@
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p> -->
+</p> 
 
 # Socials🌐
 <p align="left">
